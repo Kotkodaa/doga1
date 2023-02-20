@@ -4,7 +4,7 @@
 * Copyright: 2023, Kondor Marcell
 * Group: Szoft 1/n
 * Date: 2023-02-20
-* Github: https://github.com/Kotkodaa/doga.git
+* Github: https://github.com/Kotkodaa/doga1.git
 */
 public class Egyenlet {
     public static double calcterulet(double side_a, double side_b) {
